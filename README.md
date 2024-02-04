@@ -31,3 +31,22 @@ Respository for the solution of Leetcode's 75 in various languages by open-sourc
 
 9. String Compression
 ##### Medium
+
+
+## Two Pointers
+
+10. Move Zeroes
+
+Easy
+
+11. Is Subsequence
+
+Easy
+
+12. Container With Most Water
+
+Medium
+
+13. Max Number of K-Sum Pairs
+
+Medium
